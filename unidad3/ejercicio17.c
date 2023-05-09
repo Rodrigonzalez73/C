@@ -4,3 +4,24 @@ Realizar el seguimiento determinando cuál será el resultado para el lote de pr
 preguntas teniendo en cuenta lo efectuado.
 */
 
+/*. Lote de prueba: 20, 14, -2, 0,10, 8,0, -1, 5*/
+
+
+int acumm (int xacum){
+    int acum,c;
+    acum = 0;
+    scanf("%d",c);
+    while (c != 0){
+        acum = acum+c;
+        scanf("%d",c);
+    }
+    return c;
+}
+
+int main (){
+
+    int acum;
+
+    acumm (acum);
+
+}

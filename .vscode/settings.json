@@ -7,5 +7,6 @@
         "habitacion",
         "Ingrese"
     ],
-    "C_Cpp.errorSquiggles": "disabled"
+    "C_Cpp.errorSquiggles": "disabled",
+    "editor.fontFamily": "Consolas, 'Operator Mono', monospace"
 }
